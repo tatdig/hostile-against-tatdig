@@ -1,1 +1,1 @@
-Godaddy - https://www.malwareworld.com/textlists/suspiciousDomains.txt
+Godaddy - https://www.malwareworld.com/textlists/suspiciousDomains.txt - Phony security blocklist. Attempt to fix situation made on 12/17/2021 EST.
