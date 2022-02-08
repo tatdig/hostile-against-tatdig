@@ -1,1 +1,3 @@
+Avoid any cooperation with listed below providers as they have been proven to be hostile toward our Dev Team.
 
+Comcast, Xfinity
