@@ -2,4 +2,4 @@ Godaddy - https://www.malwareworld.com/textlists/suspiciousDomains.txt - Phony s
 
 jsdelivr.net - https://cdn.jsdelivr.net/gh/privacy-protection-tools/anti-AD/anti-ad-easylist.txt
 
-OVH US LLC - hosting suspended without legal grounds 7/21/22 tdcoincore.org. Possible data stealing.
+OVH US LLC (https://us.ovhcloud.com/) - hosting suspended and deleted without legal grounds 7/21/22 tdcoincore.org. Possible data stealing.
